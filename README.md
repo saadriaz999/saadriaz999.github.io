@@ -74,7 +74,17 @@ MS Computer Science
 
 **Institute of Business Administration**  
 BS Computer Science
-<br><br>
+<details>
+  <summary><em>Relevant Coursework</em></summary>
+  <ul>
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Natural Language Processing</li>
+    <li>Computer Vision</li>
+  </ul>
+</details>
+<br>
+<br>
 
 ## WORK EXPERIENCE
 
