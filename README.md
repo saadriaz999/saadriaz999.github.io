@@ -1,5 +1,5 @@
-# Data Engineer
-## Big Data & Scalable Systems 
+# Machine Learning Engineer
+## AI Agents and Natural Language Processing 
 ### TECHNICAL SKILLS
 
 ---
@@ -58,115 +58,97 @@
 ### EDUCATION
 
 ---
-**University of Illinois at Chicago**  
-***Chicago, Illinois, USA* &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">**  
-**M.S. Computer Science** _May 2026_
+**University of Illinois**  
+**M.S. Computer Science**
 <details>
   <summary><em>Relevant Coursework</em></summary>
   <ul>
     <li>Machine Learning</li>
-    <li>Data Sciencee</li>
-    <li>Big Data Mining</li>
+    <li>Data Science</li>
+    <li>Computer Algorithms</li>
     <li>Natural Language Processing</li>
     <li>Energy Efficient Deep Learning</li>
   </ul>
 </details>
 <br>
 
-**Institute of Business Administration Karachi**  
-***Karachi, Pakistan* &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
-**B.S. Computer Science** _May 2024_
+**Institute of Business Administration**  
+**B.S. Computer Science** 
 <br>
 
 ### WORK EXPERIENCE
 
 ---
-**University of Illinois Chicago** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">  
-**Graduate Teaching Assistant** | Sep 2024 - Present  
-- Developed and delivered both synchronous and asynchronous instruction in Swift programming, with a focus on iOS app development (SwiftUI, UIKit), empowering students to build real-world mobile applications addressing community challenges.
-- Integrated cutting-edge AR/VR/Spatial Computing content, collaborating with students in an Agile environment to build innovative mobile
-applications.
-- Earned Apple-certified NC3 training in North Carolina, gaining advanced expertise in Swift programming and leadership skills to conduct
-train-the-trainer sessions for the Sandbox@UIC team.
-- Spearheaded outreach initiatives to recruit students, promote UIC Innovation programs, and coordinate event operations, significantly
-enhancing community engagement and technological literacy.
-- **Tools:** Swift Programming, SwiftUI, UIKit
-- **Competencies:** App Development, Software Development
+**Argonne National Laboratory** | Lemont, USA &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">  
+**Graduate Researcher** | Jan 2025 – May 2025  
+- Developed an automation tool that can potentially reduce literature survey time from weeks to hours.
+- Generated vector embeddings of parsed text and images to facilitate semantic search and similarity-based retrieval.
+- Built a graph database using Memgraph to represent extracted content, enabling intuitive knowledge exploration through entity relationships.
+- Leveraged LLMs to automatically populate the graph database with entities, relationships, and key insights, streamlining the knowledge graph construction process.
+- Designed a Python-based pipeline for end-to-end literature survey automation, reducing manual effort by 70%.
 <br>
 
-**Habib Bank Limited** *(Pakistan's leading bank)* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Engineer Intern** | Aug 2023 - May 2024  
-- Developed an ETL data pipeline that integrated data from multiple sources (MySQL, PostgreSQL, MongoDB) into a centralized repository
-for customer information.
-- Designed and implemented a star schema, creating dimensional tables and a fact table to optimize data retrieval and reporting.
-- Automated data extraction, transformation, and loading (ETL) processes, reducing manual intervention for viewing customer data by 70%.
-- **Tools:** Python, SQL, Scikit-learn, XGBoost, Apache Spark, Excel
-- **Competencies:** Machine Learning, Churn Forecasting, Customer Segmentation, Adhoc Analysis, Stakeholder Management
+**Bookassist** | Madrid, Spain  
+**Data Scientist** | Nov 2023 – Jul 2024  
+- Built a hotel recommendation engine in Python, driving an increase in revenue by optimizing suggestion accuracy.
+- Achieved 2-second recommendation times by leveraging embeddings and a vector database.
+- Employed Vertex AI Function Calling on Google Cloud Platform (GCP) to extract structured data from over 10,000 hotel room listings, enabling advanced search and filtering capabilities.
+- Developed a Docker-based cron job for automated embedding updates, ensuring up-to-date recommendations by running updates 4 times monthly without manual intervention.
 <br>
 
-**Pakistan State Oil** *(Pakistan's largest oil marketing company (OMC))* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Science Intern** | Jul 2022 - Aug 2022
-- Successfully completed 'Credit Limit Analysis' and ‘Sales Forecasting’ projects at PSO, utilizing my skills in data extraction and analysis to
-extract relevant features from SAP Software.
-- Collaborated with cross-functional teams to gain a deep understanding of PSO's existing credit policy and worked closely with different
-departments to identify areas for data-driven improvements.
-- Conducted extensive data analysis and extracted actionable insights that helped PSO allocate its resources more effectively, resulting in a
-significant 38% improvement in the company's credit management and risk assessment capabilities.
-- **Tools:** SQL, STAN, Grafana, Python
-- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
-<br>
-
-**3STEM** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="Pakistan Flag" width="18" height="13">  
-**SAP Functional Consultant** | Nov 2021 - Oct 2023
-- Applied my SAP expertise in MM, WM, and EWM modules to optimize inventory management, reduce operational costs, and enhance
-customer satisfaction for a global household cleaning supplies manufacturer.
-- Implemented and configured Material Management processes, including purchase requisitions, release strategies, and MRP, to achieve supply
-chain efficiency.
-- Worked on ERP and EWM system integration, gaining insights into data-driven operational enhancements.
-- **Tools:** SAP ERP, SAP MM, SAP WM, SAP EWM
-- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
+**HR Lytic** | London, UK  
+**Machine Learning Engineer** | Mar 2021 – Apr 2023  
+- Developed backend microservices in Python Flask for a job search platform, supporting scalable job matching.
+- Extracted structured data from resumes using regex and part-of-speech tagging, achieving 80% parsing accuracy.
+- Created custom word embeddings tailored for resumes, incorporating 500 specialized technology terms.
+- Implemented recommendation algorithms for precise job-candidate matching, significantly enhancing relevance by suggesting roles that matched candidate profiles with 70% accuracy.
+- Created an intelligent chatbot to assist recruiters, accelerating candidate inquiries by 50% and automating interview scheduling, while using MongoDB to efficiently store and retrieve candidate data.
+- Developed a CNN-based image recognition model to identify duplicate entries in the database, achieving 95% accuracy and significantly reducing data redundancy.
 <br>
 
 ### PROJECTS
 
 ---
-#### RAG-based LLM for Medical Dialogue Generation – Biomedical NLP [GitHub](https://github.com/advaitpai/Medical-Dialog-Generation)
+#### AutoFloor, Floorplan Generator  
+- Fine-tuned a diffusion generative AI model which generated floor plans from text inputs in less than 5 seconds.
+- Optimized the model to run on a 4 GB GPU, reducing operational costs and increasing accessibility.
+- Prepared a dataset of 30,000 floor plan images, including color-coded rooms, to enhance model accuracy.
+<br>
 
-- Created a healthcare chatbot on GCP that provides contextually relevant responses to medical queries using NLP, Retrieval-Augmented Generation, and GPT-3 on PyTorch.
-- Enhanced response accuracy by 45% by quantifying RAG's effectiveness using pre-trained BERT embedded tokens.
-- Minimized inherent hallucinations to a 2% response rate through fine-tuning and prompt engineering techniques.
-  
-<!-- Adding an image under the project -->
-<img src="assets/RAG.png" alt="Predictive Trading Transformer" width="500">
+#### Medical QA, Medical Chatbot  
+- Developed a Retrieval Augmented Generation (RAG) medical chatbot using embedding and Large Language Models.
+- Enabled real-time responses to user queries, scanning over 1,000 medical research papers in under 3 seconds.
+- Deployed code using Docker, Kubernetes, and Jenkins, achieving 100% automation of seamless CI/CD pipelines.
+<br>
 
-#### Predictive Trading with Transformer Models: An AI-Powered Solution [GitHub](https://github.com/zohairhashmi/blockhouse-transformers)
+#### Report IT, Crime Reporting Web Application  
+- Developed a scalable web application using JavaScript and Express JS, adhering to the MVC architecture, which supported over 1,000 users while maintaining performance as the user base expanded.
+- Implemented Google Maps API for real-time location-based crime reporting, refreshing every 30 seconds to provide up-to-date data.
+- Integrated a clustering algorithm to find crime hot spots, delivering safe route recommendations with 80% accuracy.
+<br>
 
-- Designed a Transformer-based model for automated trading, achieving 86% prediction accuracy and optimizing investment portfolio decisions.
-- Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
-- Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
-  
-<!-- Adding an image under the project -->
-<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
+### LEADERSHIP EXPERIENCE
 
-#### Algorithmic Fairness & Uncertainty Analysis  [GitHub](https://github.com/zohairhashmi/uncertainty-quantification)
+---
+**IBA Data Science Society** | Executive Council Member | Aug 2022 – May 2023  
+- Organized and supervised a machine learning competition with 50 participants and 10 judges.
+- Secured sponsorship from 3 companies, providing free entry for students and offering cash prizes.
+<br>
 
-- Developed techniques to quantify uncertainty and enhance fairness in ML models, addressing biases in datasets.
-- Analyzed aleatoric and epistemic uncertainties using Monte Carlo Markov Chains (MCMC) with PyMC and TensorFlow.
-- Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.
-- Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
+**Institute of Business Administration** | Artificial Intelligence Teaching Assistant | Jan 2023 – May 2023  
+- Automated the assignment grading process, delivering fair and timely feedback to a class of 40 students.
+- Offered personalized support to students, leading to enhanced understanding and academic improvement.
+<br>
 
-#### Parallel Processing: My First Dips into Data Speed
-1. [Matrx Multiplication via CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
-2. [2D Convolution using MPI](https://github.com/zohairhashmi/gaussian-elimination)
-3. [Gaussian Elimination using MPI](https://github.com/zohairhashmi/Convolution2D-Parallel-Processing)
-
-#### [My First Ever Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
+**JDC Foundation** | Community Volunteer | June 2022 – July 2022  
+- Built meaningful connections with 20 elderly residents at JDC Old Home, fostering a welcoming atmosphere.
+- Contributed to JDC Dastarkhan, helping to feed 300 people daily and promoting community engagement.
 <br>
 
 ### CONTACT
 
 ---
-
 Feel free to reach out to me through the following channels:  
-**<img src="assets/email_logo.png" alt="US Flag" width="18" height="18">** [arhammuhammad742@gmail.com](mailto:arhammuhammad742@gmail.com)  
-**<img src="assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [https://www.linkedin.com/in/muhammad-arham-iba/](https://www.linkedin.com/in/muhammad-arham-iba/)
+**<img src="assets/email_logo.png" alt="US Flag" width="18" height="18">** [smahm38@uic.edu](mailto:smahm38@uic.edu)  
+**<img src="assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [https://www.linkedin.com/in/saad-riazuddin-mahmood-663037200/](https://www.linkedin.com/in/saad-riazuddin-mahmood-663037200/)
+
